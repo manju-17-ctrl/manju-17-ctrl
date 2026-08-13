@@ -1,10 +1,21 @@
-Manju D
-Full Stack Developer | CSE Student | Software Developer
+👋 Hi, I'm Manju D
 
-👋 About Me
+🎓 Computer Science & Engineering Student | Aspiring Software Developer | Full Stack Enthusiast
 
-I'm Manju D, a Computer Science and Engineering student interested in software development and building real-world applications.
+«"Passionate about learning, building, and turning ideas into real-world applications."»
+
 ---
+
+👨‍💻 About Me
+
+I'm Manju D, a Computer Science & Engineering student passionate about software development and technology.
+
+- 🎓 CSE Student
+- 💻 Interested in Software Development & Full Stack Development
+- 🌱 Currently learning and improving my programming and development skills
+- 🚀 Interested in building practical and useful projects
+- 📚 Always learning new technologies and exploring new ideas
+- 🎯 Looking forward to starting my career in the IT industry
 
 🛠️ Tech Stack
 
