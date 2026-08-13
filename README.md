@@ -105,9 +105,9 @@ Technologies: React • Node.js • Express • JavaScript • OCR • Excel
 
 🤝 Connect With Me
 
-📧 Email: YOUR_EMAIL@gmail.com
+📧 Email: manju539550560@gmail.com
 
-🔗 LinkedIn: "Add your LinkedIn profile here" (YOUR_LINKEDIN_URL)
+🔗 LinkedIn: "linkedin.com/in/manju-d " (YOUR_LINKEDIN_URL)
 
 💻 GitHub: "@manju-17-ctrl" (https://github.com/manju-17-ctrl)
 
