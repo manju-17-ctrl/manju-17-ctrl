@@ -121,27 +121,6 @@ A web application designed to extract student information and marks from markshe
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=manju-17-ctrl&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00E5&icon_color=39FF14&text_color=C9D1D9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manju-17-ctrl&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00E5&text_color=C9D1D9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manju-17-ctrl&theme=radical&hide_border=true&background=0D1117&ring=39FF14&fire=FF00E5&currStreakLabel=00F5FF" width="70%"/>
-
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manju-17-ctrl&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</div>
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
